@@ -103,16 +103,18 @@ widgets:
       Facebook: https://facebook.com/yang.hong.xin
       Linkedin: https://linkedin.com/in/hongxin-yang
       Medium: https://medium.com/@yang.hong.xin
-  - type: category
-    position: left
-  - type: tag
-    position: left
-  # - type: tagcloud
-  #   position: left
   - type: recent_posts
+    position: right
+  - type: category
     position: right
   - type: archive
     position: right
+  - type: tag
+    position: right
+  # - type: tagcloud
+  #   position: left
+
+
 
 
 # Other plugin settings
