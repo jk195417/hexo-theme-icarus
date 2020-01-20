@@ -99,10 +99,8 @@ widgets:
   - type: links
     position: left
     links: # Links to be shown in the links widget
-      Github: https://github.com/jk195417
-      Facebook: https://facebook.com/yang.hong.xin
-      Linkedin: https://linkedin.com/in/hongxin-yang
-      Medium: https://medium.com/@yang.hong.xin
+      Resume: https://yang-hong-xin.com/me/
+      "Master Thesis": https://hdl.handle.net/11296/gazcm2
   - type: recent_posts
     position: right
   - type: category
@@ -113,9 +111,6 @@ widgets:
     position: right
   # - type: tagcloud
   #   position: left
-
-
-
 
 # Other plugin settings
 plugins:
@@ -134,7 +129,7 @@ plugins:
   busuanzi: false # BuSuanZi site/page view counter. https://busuanzi.ibruce.info
 
 # CDN provider settings. https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
-providers: 
+providers:
   cdn: jsdelivr # Name or URL of the JavaScript and/or stylesheet CDN provider
   fontcdn: google # Name or URL of the webfont CDN provider
   iconcdn: fontawesome # Name or URL of the webfont Icon CDN provider
