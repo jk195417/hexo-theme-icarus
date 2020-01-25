@@ -94,13 +94,13 @@ widgets:
       RSS:
         icon: fas fa-rss
         url: /atom.xml
-  - type: toc
-    position: left
   - type: links
     position: left
     links: # Links to be shown in the links widget
       Resume: https://yang-hong-xin.com/me/
       "Master Thesis": https://hdl.handle.net/11296/gazcm2
+  - type: toc
+    position: left
   - type: recent_posts
     position: right
   - type: category
