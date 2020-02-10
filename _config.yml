@@ -133,3 +133,10 @@ providers:
   cdn: jsdelivr # Name or URL of the JavaScript and/or stylesheet CDN provider
   fontcdn: google # Name or URL of the webfont CDN provider
   iconcdn: fontawesome # Name or URL of the webfont Icon CDN provider
+
+# SEO 
+open_graph:
+  fb_app_id:
+  fb_admins:
+  twitter_id:
+  google_plus:
