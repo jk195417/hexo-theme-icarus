@@ -43,7 +43,7 @@ search:
 # Comment plugin settings. https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
   type: disqus # Name of the comment plugin
-  shortname: yang_hong_xin
+  shortname: yang-hong-xin
 
 # Donation entries. https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation
 # donate:
