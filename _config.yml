@@ -42,7 +42,8 @@ search:
 
 # Comment plugin settings. https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
-  type: facebook # Name of the comment plugin
+  type: disqus # Name of the comment plugin
+  shortname: yang_hong_xin
 
 # Donation entries. https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation
 # donate:
