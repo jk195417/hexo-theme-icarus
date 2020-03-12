@@ -31,8 +31,8 @@ article:
   # Code highlight settings
   highlight:
     theme: atom-one-dark # Code highlight themes. https://github.com/highlightjs/highlight.js/tree/master/src/styles
-    clipboard: true # Show code copying button
-    fold: unfolded # Default folding status of the code blocks. Can be "", "folded", "unfolded"
+    clipboard: false # Show code copying button
+    fold: "" # Default folding status of the code blocks. Can be "", "folded", "unfolded"
   thumbnail: true # Whether to show article thumbnail images
   readtime: true # Whether to show estimate article reading time
 
